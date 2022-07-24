@@ -1,5 +1,5 @@
 # HsScripts Recycling Brigade
-
+# https://discord.gg/3AjUfT3kUg
 
 
 **Hi, I saw a similar script on qbcore and found it quite interesting, so I made it on ESX and with NUI.**
