@@ -42,5 +42,5 @@ function RandomItem()
 end
   
 function RandomNumber()
-    return math.random(cfg.random["count"])
+    return math.random(1,5)
 end
