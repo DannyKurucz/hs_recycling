@@ -77,7 +77,4 @@ cfg = {
 
     },
 
-    random = { --count items from searching boxes
-        ["count"] = 1,5
-    },
 }
